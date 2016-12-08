@@ -1,0 +1,8 @@
+form {
+    margin: 1em;
+}
+tr td, tr th {
+    padding: 1em;
+    border-collapse: collapse;
+    border: 1px solid #d3d3d3;
+}
